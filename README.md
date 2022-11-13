@@ -14,3 +14,5 @@
 
 # 👨🏼‍💻 My Work
 You can check out the projects i've worked on [here](https://mrzcookie.com/projects)!
+
+<sup>Took this from [Baezor](https://github.com/baezor1)</sup>
