@@ -1,7 +1,6 @@
 # 👋 Hello! I'm MrZCookie!
 
 - I'm a 14 year old, full-stack developer that loves to make websites, discord bots, and Minecraft servers.
-- Working on a server called [ZOON](https://discord.gg/JredM9DZNp)! 
 - You can check out my portfolio [here](https://mrzcookie.com/)!
 
 # 📄 Lauguages
