@@ -1,7 +1,7 @@
 # 👋 Hello! I'm MrZCookie!
 
 - I'm a 14 year old, full-stack developer that loves to make websites, discord bots, and Minecraft servers.
-- You can check out my portfolio [here](https://mrzcookie.com/)!
+- You can check out my portfolio [here](https://mrzcookie.dev/)!
 
 # 📄 Lauguages
 
@@ -12,4 +12,4 @@
 - **Python** 3⭐ - I don't use python for really anything, but I have a good understanding of its syntax and its package manager.
 
 # 👨🏼‍💻 My Work
-You can check out the projects i've worked on [here](https://mrzcookie.com/projects)!
+You can check out the projects i've worked on [here](https://mrzcookie.dev/projects)!
